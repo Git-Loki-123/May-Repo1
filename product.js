@@ -3,4 +3,4 @@ var y=20;
 //var z=x+y;
 
 let sum=()=>x+y;
-console.log(`The sum of ${x} and ${y} is ${sum}`);
+console.log(`The sum of the value ${x} and ${y} is ${sum}`);
